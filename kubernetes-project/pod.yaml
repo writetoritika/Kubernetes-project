@@ -6,6 +6,6 @@ metadata:
 spec:
   containers:
     - name: django-todo-ctr
-      image: trainwithshubham/django-todo:latest
+      image: writetoritika/django-todo:latest
       ports:
         - containerPort: 8001
